@@ -12,7 +12,7 @@ Syt =input('Enter the tensile yield strength'); %Entering the value of tensile y
 sc = Syc/fos; %finding the compressive stress
 %% Step 3: Design of Screw
 dc = sqrt((4*s)/(3.1416*sc));  %Finding the core diameter
-% Consideration of other stresses sich as torsional stress and bending
+% Consideration of other stresses such as torsional stress and bending
 % moments, the value of dc will be increased a little
 % Doing the trail for value of dc
 d =input('Enter the nominal diamter in mm'); %Entering the value of nominal diamter
