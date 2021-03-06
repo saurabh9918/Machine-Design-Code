@@ -1,5 +1,4 @@
 %% Design of Spur Gear for any Application
-%% Name- Mani Sanguri   Registration no- 20183027  Class- MEB ME4
 %% References- PSG Design Data Book, Machine Design Shigley, and Juvinel Machine components Design
 %% Step 0- Input Parameters
 Ptrans= input('Enter the value of Power transmitted in KW');  %This is the value of Power transmitted through the Spur gear and Pinion
